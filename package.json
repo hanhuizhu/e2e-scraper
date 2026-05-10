@@ -1,0 +1,6 @@
+{
+  "name": "e2e-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Code E2E scraper skill - cookie reuse + Playwright + network monitoring"
+}

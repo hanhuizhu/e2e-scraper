@@ -1,0 +1,13 @@
+{
+  "name": "my-e2e-scraper",
+  "domain": "example.com",
+  "targetUrl": "https://www.example.com",
+  "headless": false,
+  "outputDir": "output",
+  "waitUntil": "load",
+  "scrollTimes": 20,
+  "scrollDelayMs": 2500,
+  "waitSelectors": [],
+  "networkPatterns": [],
+  "domExtract": null
+}
